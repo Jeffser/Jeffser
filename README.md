@@ -8,3 +8,5 @@
 [![Jeffser's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffser&show_icons=true&theme=radical)](https://github.com/jeffser)
 
 </div>
+
+Unemployed college student coff coff jeffrysamuer@gmail.com
