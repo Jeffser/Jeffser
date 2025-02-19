@@ -37,24 +37,4 @@
     <td><a href="https://x.com/jeffrysamuer">@jeffrysamuer</a></td>
   </tr>
 </table>
-
-## Personal Socials
-
-My gamertag has always been Tentri :p
-
-<table>
-  <tr>
-    <th>🎮 Steam</th>
-    <th>🎮 PlayStation</th>
-    <th>📹 YouTube</th>
-    <th>🦋 Bluesky</th>
-  </tr>
-  <tr>
-    <td><a href="https://steamcommunity.com/id/Tentri/">Tentri</a></td>
-    <td>Textrillicom</td>
-    <td><a href="https://www.youtube.com/@Tentri">Tentri</a></td>
-    <td><a href="https://tentri.bsky.social">@tentri.bsky.social</a></td>
-  </tr>
-</table>
-
 </div>
